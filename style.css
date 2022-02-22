@@ -1,0 +1,58 @@
+.titulo-principal{
+    padding-left: 30px;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background: #cccccc;
+    padding: 20px;
+
+}
+.tituloCentralizado{
+    text-align: center;
+    /*
+    height: 150px; altura
+    border: 10px solid #000000;
+    padding:20px;espaciado interno
+    margin: 40px;margen externo total*/
+    
+}
+
+
+
+p{
+    text-align: center;
+}
+
+
+
+em strong{
+    color: red;
+}
+#mision{
+    font-size: 20px;
+}
+.diferenciales{
+    background-color: #ffffff;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;/*forma de la letra cursiva*/
+}
+
+ul{
+    display:inline-block; /* solo ocupe su empacio*/
+    vertical-align: top; /* parte superior*/
+    width: 20%;/*ancho*/
+    margin-right: 15%;
+    
+}
+
+.imagenDiferenciales{
+    width:50%; 
+}
